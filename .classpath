@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="UT4/SRConsola000 - Cliente FTP - Mostrar el contenido de un Directorio/Librerias/commons-net-3.3"/>
+	<classpathentry kind="src" path="UT4/SRConsola000 - Cliente FTP - Mostrar el contenido de un Directorio/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola001 - Cliente FTP - Subir un Fichero al Servidor FTP/Librerias/commons-net-3.3"/>
+	<classpathentry kind="src" path="UT4/SRConsola001 - Cliente FTP - Subir un Fichero al Servidor FTP/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola002 - Cliente FTP - Descargar un Fichero del Servidor FTP/Librerias/commons-net-3.3"/>
+	<classpathentry kind="src" path="UT4/SRConsola002 - Cliente FTP - Descargar un Fichero del Servidor FTP/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola003 - Cliente FTP - Crear un Directorio/Librerias/commons-net-3.3"/>
+	<classpathentry kind="src" path="UT4/SRConsola003 - Cliente FTP - Crear un Directorio/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola200B - Cliente SMTP/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola200 - Cliente SMTP/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola201B - Cliente POP3/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola201 - Cliente POP3/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola202 - Cliente IMAP/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola300 - Cliente NTS/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola301 - Cliente ECHO/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola400 - Cliente LDAP/src"/>
+	<classpathentry kind="src" path="UT4/SRConsola500 - Servidor HTTP POST/src"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200B - Cliente SMTP/lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200B - Cliente SMTP/lib/commons-net-3.2.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200B - Cliente SMTP/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200B - Cliente SMTP/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200 - Cliente SMTP/librerias/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200 - Cliente SMTP/librerias/com.sun.net.ssl.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola200 - Cliente SMTP/librerias/javax.mail.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola201B - Cliente POP3/lib/commons-net-3.2.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola201B - Cliente POP3/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola201 - Cliente POP3/librerias/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola201 - Cliente POP3/librerias/com.sun.net.ssl.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola201 - Cliente POP3/librerias/javax.mail.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola202 - Cliente IMAP/librerias/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola202 - Cliente IMAP/librerias/com.sun.net.ssl.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola202 - Cliente IMAP/librerias/javax.mail.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola301 - Cliente ECHO/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="UT4/SRConsola500 - Servidor HTTP POST/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="output" path="UT4/SRConsola000 - Cliente FTP - Mostrar el contenido de un Directorio/build/classes"/>
+</classpath>
