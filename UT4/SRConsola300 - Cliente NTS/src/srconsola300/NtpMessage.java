@@ -52,7 +52,7 @@ import java.util.Date;
  *
  * @author Adam Buckley
  */
-public class NtpMessage {
+public class NtpMessage {  //ESTO PUEDE CAER EN EL EXAMEN!!!!!!!!!!!!!
 
     /**
      * This is a two-bit code warning of an impending leap second to be
@@ -165,7 +165,7 @@ public class NtpMessage {
      * This is the time at which the request departed the client for the server,
      * in seconds since 00:00 1-Jan-1900.
      */
-    public double originateTimestamp = 0;
+    public double originateTimestamp = 0; //SIEMPRE VIENEN AJUSTADAS A 1900
 
     /**
      * This is the time at which the request arrived at the server, in seconds

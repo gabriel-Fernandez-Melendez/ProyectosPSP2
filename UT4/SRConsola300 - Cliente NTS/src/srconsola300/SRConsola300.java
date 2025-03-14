@@ -24,7 +24,7 @@ public class SRConsola300 {
      */
     public static void main(String[] args) throws IOException {
         // Dirección del servidor NTP al que consultamos
-        String servidorNTP = "0.es.pool.ntp.org";
+        String servidorNTP = "0.es.pool.ntp.org"; //SERVIDOR NTP EN ESPAÑA , SE PONE ESTA VARIABLE PARA USARLA COMO EL QUE VIAJARA
 
         // Preparamos el socket de comunicaciones
         DatagramSocket socket = new DatagramSocket();

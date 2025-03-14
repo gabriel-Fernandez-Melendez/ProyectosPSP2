@@ -14,7 +14,7 @@ import java.util.logging.Logger;
  */
 public class SRConsola301ClienteECHO {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { //FUNCIONA SOLO PARA ENVIAR UNA PETICION
         Socket socket;
         PrintWriter fsalida;
         BufferedReader fentrada;

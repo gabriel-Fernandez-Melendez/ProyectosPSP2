@@ -22,7 +22,7 @@ import javax.naming.ldap.LdapContext;
  * @version 1.0
  * @since PSP 3.0
  */
-public class Autenticador {
+public class Autenticador { //ESTE PROTOCOLO PERMITE ACCESO A FICHEROS DEL ORDENADOR AL QUE TE CONECTAS
 
     private final String dominio;
     private final String URLServidorLDAP;
