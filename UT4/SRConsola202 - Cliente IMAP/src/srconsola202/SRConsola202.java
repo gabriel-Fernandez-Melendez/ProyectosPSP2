@@ -35,7 +35,7 @@ public class SRConsola202 {//esto puede entrar en el examen
         String protocolo = "imap";
         String puerto = "993";
         String usuario = "uno@gmail.com";
-        String contrasena = "password"; /// https://myaccount.google.com/apppasswords //ESTO PODEMOS NECESITARLO PARA EL ACCESO AL CORREO
+        String contrasena = "password"; /// https://myaccount.google.com/apppasswords //ESTO PODEMOS NECESITARLO PARA EL ACCESO AL CORREO  
         String fabricaSocketsSSL = "javax.net.ssl.SSLSocketFactory";
         Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
         propiedades.setProperty("mail.imap.socketFactory.class", fabricaSocketsSSL);
